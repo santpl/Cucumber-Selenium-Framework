@@ -35,4 +35,4 @@ src/test/java: Contains the test cases written in Cucumber.
 src/test/resources: Contains the feature files and cucumber runner class.
 
 # Contributor
-[Santhosh Krishnakumar][(https://github.com/santpl/Cucumber-Selenium-Framework/)]
+**Santhosh Krishnakumar**
